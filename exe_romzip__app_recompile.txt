@@ -1,0 +1,33 @@
+::
+print
+::
+;;;;;
+# telnet romzip
+## Os/x
+# kernel
+## Z.ITT{47}}
+#
+#####
+# c o d e
+universal telnet rom command to create rom with .debb.
+#
+.debb..debb..telnet  rom..telnet  rom..debb..debb..debb..telnet  rom..debb..debb..debb..debb..debb..telnet  rom  {yourromzipname}..debb..debb..debb..debb..debb..debb..telnet  python..debb..debb..debb..debb..debb..debb..telnet  rom..debb..debb..telnet  rom..debb..debb..debb..debb..debb..debb..debb..telnet  rom..debb..debb..telnet  rom..debb..debb..debb..debb..debb..debb..debb..debb..debb..debb..debb..telnet  rom..debb..debb..debb..telnet  python..debb..debb..debb..debb..debb..debb.
+#
+#
+#
+add existing applications to compile code and use the app to recompile the romzip.
+##
+add this command line after a second . behind the last .debb.
+#
+telnet  rom..debb..debb..telnet  rom  {appname}..debb..debb..debb..debb..telnet  rom  {yourromzipname}..debb..debb..debb..debb..debb..debb..debb..debb..debb..telnet  rom..debb..debb..debb..telnet  rom..debb..debb..debb..debb..debb..debb..debb..debb..debb..debb..[33].
+#
+#
+#
+##
+#
+##
+#
+::
+;;;;;
+::
+print
